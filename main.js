@@ -74,7 +74,7 @@ document.addEventListener("keydown", e => {
     if(e.key === "3") {
         console.log("HELLO");
         clearSimulation();
-        slingShotOrbitOrbit();
+        slingShotOrbit();
         sim3 = true;   
         sim1 = false;
         sim2 = false;
