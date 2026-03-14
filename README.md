@@ -21,6 +21,8 @@ This solution, unlike the Lagrange Solution, requires all masses to be equal as 
 ## Sling Shot
 The third orbit I like to call the sling shot. It resembles a sling shot in how two orbital bodies repeatedly "shoot" the third body outwards and pull it back in. This orbit actually made me recall space missions discussed in class and how the gravitational forces of planets can be used to systematically "slingshot" space crafts further into the solar system.
 
+Unlike the other two, I just found this one by plugging in random values for starting position and velocity. I call the other two "solutions" because they are considered to be **periodic solutions**. That is, they are deterministic and follow a set orbit. They won't deviate from this orbit over a period of time. I have no idea if this "sling shot" orbit is a periodic solution. Because there is no closed form solution to a three body problem, the previous two have been proven to be periodic through numeric solutions (i.e. computer simulations for the figure eight solution). I thought it was important to make this distinction. 
+
 # Final Thoughts
 Overall, this project was very fun for me. It's incredibly interesting to see how these seemingly chaotic forces can create stable and predictable systems when under the right conditions. Most of these systems are too specific to ever encounter in real life, but simulations of these gravitational forces have allowed us to finely tune space missions that would have otherwise been seemingly impossible. 
 
