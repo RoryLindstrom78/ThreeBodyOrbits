@@ -74,7 +74,7 @@ document.addEventListener("keydown", e => {
     if(e.key === "3") {
         console.log("HELLO");
         clearSimulation();
-        hipHopOrbit();
+        slingShotOrbitOrbit();
         sim3 = true;   
         sim1 = false;
         sim2 = false;
@@ -202,7 +202,7 @@ function figureEightOrbit() {
     simulation = new NBodySimulation(bodies, dt, G);
 }
 
-function hipHopOrbit() {
+function slingShotOrbit() {
     const scale = 10; // scale positions for visibility
     const G = 1;      // gravitational constant
     const m = 10;      // mass of each body
