@@ -1,3 +1,5 @@
+**Link: https://rorylindstrom78.github.io/ThreeBodyOrbits/**
+
 # Three Body Orbits
 I was setting up some skeleton code to try to simulate the solar system but quickly realized with the scale of everything, I'd run into a lot of trouble doing so with any accuracy. Despite this, I still had a fun simulation of planets orbiting one another utilizing Newton's Law of Universal Gravitation. I stumbled across this video:
 
